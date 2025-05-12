@@ -12,9 +12,9 @@ This project builds a machine learning model to predict telecom customer churn a
 ---
 
 # Performance
-- Accuracy: **79.5%**
-- Precision (churn): **66%**
-- Recall (churn): **50%**
+- Accuracy: **78.5%**
+- Precision (churn, 1): **60%**
+- Recall (churn, 1): **47%**
 - Model: Random Forest Classifier
 
 ---
