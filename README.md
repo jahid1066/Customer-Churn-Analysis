@@ -31,3 +31,9 @@ This project builds a machine learning model to predict telecom customer churn a
 - pandas
 - scikit-learn
 - seaborn, matplotlib
+
+---
+
+## **Author**
+
+Md Jahidul Islam
